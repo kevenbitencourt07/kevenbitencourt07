@@ -18,7 +18,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Web, explora
 - 💻 Foco em Desenvolvimento de Software.
 - 🌐 Interesse em desenvolvimento Front-end e Back-end.
 - 📚 Sempre aprendendo novas tecnologias.
-- 🎯 Objetivo: conquistar uma oportunidade como Desenvolvedor Júnior.
+- 🎯 Objetivo: conquistar uma oportunidade como Analista de Segurança Júnior.
 - 🚀 Motivado por desafios e novos projetos.
 
 ---
@@ -77,7 +77,7 @@ Funcionalidades e características:
 
 Tecnologias: React, JavaScript e CSS.
 
-🔗 Repositório: [Adicionar link do projeto]
+🔗 Repositório: https://github.com/kevenbitencourt07/sapataria-angelus-new.git
 
 ---
 
@@ -123,7 +123,7 @@ Atualmente, meus principais focos são:
   <i>"A melhor maneira de aprender a programar é construindo."</i>
 </p><p align="center">
   Obrigado pela visita! 🚀
-</p>## Hi there 👋
+</p>
 
 <!--
 **kevenbitencourt07/kevenbitencourt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
