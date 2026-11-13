@@ -60,7 +60,7 @@ Funcionalidades e características:
 
 Tecnologias: React, JavaScript, HTML e CSS.
 
-🔗 Repositório: [Adicionar link do projeto]
+🔗 Repositório: https://github.com/kevenbitencourt07/sapataria-angelus-new.git
 
 ---
 
@@ -77,18 +77,9 @@ Funcionalidades e características:
 
 Tecnologias: React, JavaScript e CSS.
 
-🔗 Repositório: https://github.com/kevenbitencourt07/sapataria-angelus-new.git
+🔗 Repositório: https://github.com/kevenbitencourt07/domando-gpt.git
 
 ---
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" />
-</p>---
 
 🎯 Objetivos profissionais
 
@@ -108,13 +99,13 @@ Atualmente, meus principais focos são:
 📫 Entre em contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/keven-bitencourt-dos-reis-9444323ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU-EMAIL">
+  <a href="mailto:kevenbitencourt123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/kevenbitencourt07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>---
